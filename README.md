@@ -1,6 +1,7 @@
 # Access-to-Third-Level-and-Wealth-Disparity
 
-[Link to this webpage](https://aoifehoran97.github.io/Access-to-Third-Level-and-Wealth-Disparity/)  
+[Link to this Tableau](https://public.tableau.com/views/TLPRate/Scatterplot?:embed=y&:display_count=yes&:origin=viz_share_link)
+<br/>
 
 <h1>The more expensive a place is to rent in Dublin the more likely a teen in the area will progress to third level, new research reveals.<h1>  
   
