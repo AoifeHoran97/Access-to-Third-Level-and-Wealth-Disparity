@@ -21,17 +21,17 @@
 <h4>NEW research has shown that the more expensive a place is to rent, the higher the rates of third level progression were in 2016. 
 </h4>  
 
-Those living in Dublin 14, in areas such as Rathfarnam and Dundrum, lucked out with the highest rates of progression to third level among Leaving Certificate Students at 97 per cent with average rental costs nearly €600 below the most expensive areas.
+Those living in Dublin 14, in areas such as Rathfarnam and Dundrum, lucked out with the highest rates of progression to third level among Leaving Certificate Students at 97 per cent with average rental costs nearly €600 below the most expensive areas.<br/>
 
-Those renting in Dublin 2 see the highest rental prices, averaging at around €2,358.6 per month but still have a majority success at third level progression with 85 per cent of those educated in the area accepting offers in third level institutions.
+Those renting in Dublin 2 see the highest rental prices, averaging at around €2,358.6 per month but still have a majority success at third level progression with 85 per cent of those educated in the area accepting offers in third level institutions.<br/>
 
-Other areas with a high third level progression rate and rental price include predominantly Southside areas such as Dublin 6, Dublin 6 West, Dublin 4, Dublin 18 and Dublin 20.
+Other areas with a high third level progression rate and rental price include predominantly Southside areas such as Dublin 6, Dublin 6 West, Dublin 4, Dublin 18 and Dublin 20.<br/>
 
-The worst contending postal area for third level progression is Dublin 17, which includes areas such as Darndale, Coolock, Priorswood and part of Santry. 
+The worst contending postal area for third level progression is Dublin 17, which includes areas such as Darndale, Coolock, Priorswood and part of Santry.<br/>
 
-This area has a rental price of €1,437 but an average progression to third level of only 28%, it is however, important to note that there is only one second level institution in this area, Colaiste Dhulaigh, and the majority of young people in the area are educated in the surrounding areas. 
+This area has a rental price of €1,437 but an average progression to third level of only 28%, it is however, important to note that there is only one second level institution in this area, Colaiste Dhulaigh, and the majority of young people in the area are educated in the surrounding areas.<br/>
 
-When assessed the data has a correlation of 0.59, with the highest being 1 and the lowest being -1, this definitely shows that there is a strong correlation between higher rental prices and academic success in the Dublin region.  
+When assessed the data has a correlation of 0.59, with the highest being 1 and the lowest being -1, this definitely shows that there is a strong correlation between higher rental prices and academic success in the Dublin region.<br/>
 
 
 <img src="images/feepaying.png">  
@@ -49,8 +49,7 @@ The DEIS scheme was launched by the government in 2005, 11 years before this dat
 One other interesting point to note is that those in mixed schools underperformed those in single gendered schools by over a quarter and there is only a .15 percent difference between boy only schools and girl only schools, with female only schools taking the lead.
 
 This new research was accumulated by using The Daft final report of 2016 and comparing it with  The Irish Times Third level progression list and data.gov’s data on all schools to find relevant information and addresses combined.<br/>
-
-[Link to Tableau Data](https://public.tableau.com/views/TLPRate/Scatterplot?:embed=y&:display_count=yes&:origin=viz_share_link)  
+ 
 
 <img src="images/gender.png"><br/>
 
