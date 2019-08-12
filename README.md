@@ -4,7 +4,8 @@
 
 <h1>The more expensive a place is to rent in Dublin the more likely a teen in the area will progress to third level, new research reveals.<h1>  
   
- <strong> Here is the interactive map with the Average Rent Prices, Average Third-Level Progression Rates and Second-Level School locations in Dublin.  </strong>  
+ <strong> Here is the interactive map with the Average Rent Prices, Average Third-Level Progression Rates and Second-Level School locations in Dublin.</strong><br/>
+ -<br/>
  
 
  
@@ -15,7 +16,7 @@
 -<br/>
 
 
-![](images/Scatterplot.png)  
+![](images/Scatterplot.png)
 
 
 <h4>NEW research has shown that the more expensive a place is to rent, the higher the rates of third level progression were in 2016. 
