@@ -37,9 +37,9 @@ When assessed the data has a correlation of 0.59, with the highest being 1 and t
 
 <img src="images/feepaying.png">  
 
-<img src="images/DEIS.png">  
+<img src="images/DEIS.png"><br/>
 
-The data also shows that those attending Fee paying schools in Dublin in 2016 had nearly double the chance of progressing to third level, with an astounding 98 percent of those in Fee Paying schools accessing third level as opposed to just 58 percent of those in non fee paying schools.
+4The data also shows that those attending Fee paying schools in Dublin in 2016 had nearly double the chance of progressing to third level, with an astounding 98 percent of those in Fee Paying schools accessing third level as opposed to just 58 percent of those in non fee paying schools.
 
 Furthermore, this disparity can be seen in the difference between students in DEIS schools versus those in non DEIS schools, DEIS being a government scheme standing for Delivering Equality of Opportunity in School to help educational facilities for young people in disadvantaged areas. 
 
