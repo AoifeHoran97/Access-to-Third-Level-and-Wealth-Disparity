@@ -39,7 +39,7 @@ When assessed the data has a correlation of 0.59, with the highest being 1 and t
 
 <img src="images/DEIS.png"><br/>
 
-4The data also shows that those attending Fee paying schools in Dublin in 2016 had nearly double the chance of progressing to third level, with an astounding 98 percent of those in Fee Paying schools accessing third level as opposed to just 58 percent of those in non fee paying schools.
+The data also shows that those attending Fee paying schools in Dublin in 2016 had nearly double the chance of progressing to third level, with an astounding 98 percent of those in Fee Paying schools accessing third level as opposed to just 58 percent of those in non fee paying schools.
 
 Furthermore, this disparity can be seen in the difference between students in DEIS schools versus those in non DEIS schools, DEIS being a government scheme standing for Delivering Equality of Opportunity in School to help educational facilities for young people in disadvantaged areas. 
 
@@ -49,8 +49,10 @@ The DEIS scheme was launched by the government in 2005, 11 years before this dat
 
 One other interesting point to note is that those in mixed schools underperformed those in single gendered schools by over a quarter and there is only a .15 percent difference between boy only schools and girl only schools, with female only schools taking the lead.
 
-This new research was accumulated by using The Daft final report of 2016 and comparing it with  The Irish Times Third level progression list and data.gov’s data on all schools to find relevant information and addresses combined.  
+This new research was accumulated by using The Daft final report of 2016 and comparing it with  The Irish Times Third level progression list and data.gov’s data on all schools to find relevant information and addresses combined.<br/>
 
 [Link to Tableau Data](https://public.tableau.com/views/TLPRate/Scatterplot?:embed=y&:display_count=yes&:origin=viz_share_link)  
 
-<img src="images/gender.png">
+<img src="images/gender.png"><br/>
+
+END
