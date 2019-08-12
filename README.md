@@ -19,6 +19,9 @@
 ![](images/Scatterplot.png)
 
 
+<img src="images/Scatterplot.png">
+
+
 <h4>NEW research has shown that the more expensive a place is to rent, the higher the rates of third level progression were in 2016. 
 </h4>  
 
