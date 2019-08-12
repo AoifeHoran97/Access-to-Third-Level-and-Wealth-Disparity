@@ -66,7 +66,6 @@ This new research was accumulated by using The Daft final report of 2016 and com
 
 <img src="images/gender.png"><br/>
 
-[Link to Tableau Data](https://public.tableau.com/views/TLPRate/Scatterplot?:embed=y&:display_count=yes&:origin=viz_share_link)
 <br/>
 
 END
